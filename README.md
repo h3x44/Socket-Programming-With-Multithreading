@@ -214,11 +214,15 @@ CSCI 355 — Internet Web Technology
 The following GIF demonstrates the client-server communication, including the connection handshake, file request, file transfer, and connection closing process.
 
 
+## 🎥 Demo
+
 <p align="center">
-  <img src="./demo01.gif" alt="Socket Programming Demo 1" width="450">
-  <img src="./demo03.gif" alt="Socket Programming Demo 2" width="450">
+  <img src="./demo01.gif" alt="Socket Programming Demo 1" width="800">
 </p>
 
+<p align="center">
+  <img src="./demo03.gif" alt="Socket Programming Demo 2" width="800">
+</p>
 
 
 
