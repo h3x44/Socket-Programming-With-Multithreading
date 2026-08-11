@@ -1,8 +1,8 @@
 # Socket-Programming-With-Multithreading
 
-# CSCI 355 — Internet Web Technology
 
-## Assignment 06 — Socket Programming 2 With Multithreading
+
+## Assignment — Socket Programming 2 With Multithreading
 
 **Author:** Kaiwen Liu
 **Course:** CSCI 355 — Internet Web Technology
