@@ -215,6 +215,7 @@ The following GIF demonstrates the client-server communication, including the co
 
 ![Socket Programming Demo](./demo01.gif)
 
+
 ![Socket Programming Demo](./demo03.gif)
 
 
