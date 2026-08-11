@@ -208,3 +208,15 @@ This project demonstrates:
 
 **Kaiwen Liu**
 CSCI 355 — Internet Web Technology
+
+🎥 Demo
+
+The following GIF demonstrates the client-server communication, including the connection handshake, file request, file transfer, and connection closing process.
+
+
+
+
+
+
+
+
